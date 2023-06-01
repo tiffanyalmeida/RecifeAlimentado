@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RecifeAlimentado</string>
+    <string name="signup">Signup</string>
+    <string name="name">Name</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="already">Don\'t have a registration? Register now!</string>
+    <string name="login">Login</string>
+    <string name="msghelp">Help the city feed itself</string>
+    <string name="ajudantes">List of contributors</string>
+    <string name="helplister">List of fundraisers</string>
+    <string name="comida_que_ser_doada">Collection</string>
+    <string name="alreadylogin">Already have registration? Login!</string>
+    <string name="campanha">Project to feed the poor</string>
+    <string name="sucesssign">You have signed up successfully!</string>
+    <string name="uservazio">Username cannot be empty</string>
+    <string name="senhavazio">Password cannot be empty</string>
+</resources>

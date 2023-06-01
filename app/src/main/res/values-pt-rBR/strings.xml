@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecifeAlimentado</string>
+    <string name="signup">Registro</string>
+    <string name="name">Nome</string>
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="already">Não possui cadastro? Cadastre-se!</string>
+    <string name="login">Entrar</string>
+    <string name="msghelp">Ajude a cidade a se alimentar</string>
+    <string name="ajudantes">Lista de colaboradores</string>
+    <string name="helplister">Lista de arrecadadores</string>
+    <string name="comida_que_ser_doada">Arrecadação</string>
+    <string name="alreadylogin">" Já possui cadastro? Logue-se! "</string>
+    <string name="campanha">Projeto com objetivo de alimentar pobres</string>
+    <string name="sucesssign">Você se cadastrou com sucesso!</string>
+    <string name="uservazio">Nome de usuário não pode estar vazio</string>
+    <string name="senhavazio">Senha não pode estar vazio</string>
+</resources>

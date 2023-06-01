@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416394826815",
+    "project_id": "recifealimentado",
+    "storage_bucket": "recifealimentado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416394826815:android:6f1396843074624f82d48a",
+        "android_client_info": {
+          "package_name": "com.example.recifealimentado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416394826815-i5f731onnnu8kaieb8vi0eqcsn851k6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBptZKwu8FfXS41BHr-L6VAiz5kwLjeymM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416394826815-i5f731onnnu8kaieb8vi0eqcsn851k6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

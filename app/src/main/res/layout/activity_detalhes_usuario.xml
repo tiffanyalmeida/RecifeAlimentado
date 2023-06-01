@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="match_parent"
+        android:drawableLeft="@drawable/perfilicone"
+
+        android:padding="8dp"
+        android:drawablePadding="8dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:layout_marginTop="10dp"
+        tools:text="Nome do Usuário:" />
+
+    <TextView
+        android:id="@+id/emailTextView"
+        android:layout_width="match_parent"
+        android:drawableLeft="@drawable/emailicone"
+        android:padding="8dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:drawablePadding="8dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        tools:text="Email do Usuário:" />
+
+    <TextView
+        android:id="@+id/collaborationTextView"
+        android:layout_width="match_parent"
+        android:drawableLeft="@drawable/setaicone"
+        android:padding="8dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:drawablePadding="8dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        tools:text="Arrecadações:" />
+
+    <Button
+        android:id="@+id/inicioButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="#4682B4"
+        android:layout_marginTop="180dp"
+        android:text="Início" />
+
+</LinearLayout>
